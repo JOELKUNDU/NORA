@@ -12,3 +12,5 @@ and then run:
 ```
 python main.py
 ```
+
+## The wake word for the AI is "Wake Up Nora"
